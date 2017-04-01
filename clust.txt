@@ -1,0 +1,75 @@
+# K-means
+library(rattle)
+data(wine, package='rattle')
+head(wine)
+table(wine$Type)
+str(wine)
+
+wine.stand <- scale(wine[-1]) # To standarize the variables
+head(wine.stand)
+
+
+# K-Means
+
+# The kmeans() function has an nstart option that attempts 
+# multiple initial configurations and reports on the best one. 
+# For example, adding nstart=25 will generate 25 initial 
+# configurations.
+set.seed(1234)
+k.means.fit <- kmeans(wine.stand, centers=3, nstart = 25) # k = 3
+
+# Centroids:
+k.means.fit$centers
+k.means.fit$withinss
+k.means.fit$betweenss
+
+#Since the centroids provided by the function are based on 
+#standardized data, the aggregate() function is used along 
+#with the cluster memberships to determine variable means 
+#for each cluster in the original metric.
+#aggregate(wine[-1], by=list(cluster=k.means.fit$cluster), mean)
+
+# Clusters:
+k.means.fit$cluster
+
+# Cluster size:
+k.means.fit$size
+
+library(cluster)
+clusplot(wine.stand, k.means.fit$cluster, main='2D representation of the Cluster solution',
+         color=TRUE, shade=F,
+         labels=2, lines=0)
+
+
+#finding the optimal number of clusters
+library(NbClust)
+set.seed(1234)
+nc <- NbClust(wine.stand, min.nc=2, max.nc=15, method="kmeans")
+table(nc$Best.n[1,])
+
+barplot(table(nc$Best.n[1,]),
+          xlab="Numer of Clusters", ylab="Number of Criteria",
+          main="Number of Clusters Chosen by 26 Criteria")
+
+cls_tbl<-table(wine[,1],k.means.fit$cluster)
+cls_tbl
+# The adjusted Rand index provides a measure of the agreement
+# between two partitions, adjusted for chance. 
+# It ranges from -1 (no agreement) to 1 (perfect agreement).
+library(flexclust)
+randIndex(cls_tbl)
+
+dev.off()
+#Hierarchical clustering
+
+d <- dist(wine.stand, method = "euclidean")
+H.fit <- hclust(d, method="ward.D")
+
+plot(H.fit) # display dendogram
+
+set.seed(1234)
+groups <- cutree(H.fit, k=3) # cut tree into 3 clusters
+# draw dendogram with red borders around the 3 clusters
+rect.hclust(H.fit, k=3, border="red") 
+
+table(wine[,1],groups)

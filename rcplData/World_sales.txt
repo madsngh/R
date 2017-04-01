@@ -1,0 +1,1001 @@
+Continent,Product,Revenue
+South America,Product C,719.1
+Asia,Product C,833.56
+South America,Product A,468.49
+Australia,Product A,873.52
+South America,Product A,543.55
+Europe,Product A,941.46
+Australia,Product B,1277.05
+Africa,Product B,534.5
+Asia,Product C,789
+South America,Product B,412.86
+Europe,Product B,752.55
+Africa,Product B,340.3
+Africa,Product A,647.34
+Asia,Product C,377.96
+South America,Product A,619.49
+Asia,Product C,905.95
+South America,Product B,546.43
+Europe,Product B,735.99
+South America,Product A,453.51
+Australia,Product B,1066.09
+Australia,Product B,811.03
+Europe,Product B,965.04
+Australia,Product B,1294.17
+North America,Product B,597.85
+Asia,Product C,619.5
+Asia,Product C,966.14
+North America,Product A,1014.7
+Australia,Product C,1163.94
+Europe,Product C,410.89
+Europe,Product B,769.21
+Africa,Product A,616.2
+South America,Product A,264.69
+Africa,Product B,516.43
+Australia,Product B,952.74
+Asia,Product B,782.65
+Africa,Product A,428.91
+South America,Product A,376.22
+South America,Product A,610.45
+Australia,Product B,1181.06
+South America,Product B,523.1
+Asia,Product B,525.48
+North America,Product B,789.08
+North America,Product C,1091.15
+Australia,Product B,550.74
+North America,Product B,882.54
+Africa,Product C,399.89
+Europe,Product B,809.94
+South America,Product B,312.55
+Africa,Product A,574.51
+South America,Product A,602.46
+South America,Product B,561.61
+Europe,Product C,686.02
+Asia,Product C,921.12
+North America,Product B,1180.58
+Asia,Product C,768.15
+Europe,Product B,740.88
+Asia,Product B,933.33
+North America,Product A,743.96
+South America,Product A,402.07
+Asia,Product C,529.57
+Asia,Product C,886.74
+Africa,Product C,556.91
+Australia,Product A,1133.99
+North America,Product B,998.59
+South America,Product A,490.38
+Africa,Product A,514.46
+Asia,Product C,994.36
+North America,Product B,760.57
+Africa,Product A,580.9
+Asia,Product B,414.94
+South America,Product A,510.74
+Europe,Product B,866.71
+Africa,Product A,418.9
+Africa,Product A,664.23
+Australia,Product C,642.85
+Africa,Product A,468.07
+Australia,Product B,1214.2
+South America,Product C,464.62
+South America,Product A,483.92
+Europe,Product A,648.57
+North America,Product A,1388.46
+North America,Product A,1149.24
+Asia,Product B,626.42
+South America,Product A,599.16
+North America,Product A,674.22
+Africa,Product A,613.31
+Australia,Product B,1365.17
+North America,Product B,895.38
+Asia,Product C,732.85
+South America,Product B,521.11
+Africa,Product A,471.8
+Asia,Product C,1092.07
+Australia,Product B,843.36
+Africa,Product A,399.28
+Australia,Product A,959.38
+South America,Product A,256.64
+Asia,Product C,805.81
+North America,Product B,983.53
+South America,Product B,526.36
+Europe,Product B,524.8
+Europe,Product B,395.85
+Australia,Product C,1235.7
+Europe,Product B,449.46
+Europe,Product C,526.68
+Africa,Product B,525.58
+Africa,Product A,675.9
+Africa,Product A,331.92
+Asia,Product B,905.62
+Asia,Product B,746.19
+Africa,Product A,598.5
+Asia,Product B,874.7
+North America,Product A,823.05
+Europe,Product C,788.23
+Africa,Product A,455.22
+Africa,Product A,551.79
+Asia,Product C,724.92
+Australia,Product B,930.56
+Asia,Product C,1197.88
+Australia,Product A,772.74
+South America,Product B,602.73
+Africa,Product A,512.34
+Europe,Product B,735.39
+Australia,Product A,1179.96
+Europe,Product C,973.2
+Africa,Product A,534.72
+Europe,Product A,308.04
+Asia,Product B,762.93
+South America,Product A,615.48
+Australia,Product B,907.9
+Asia,Product C,993.07
+Asia,Product B,717.65
+Asia,Product B,1034.86
+South America,Product B,503.81
+Asia,Product C,953.45
+Africa,Product B,618.25
+North America,Product B,1086.63
+Europe,Product A,745.34
+Australia,Product A,936.48
+North America,Product B,867.17
+Africa,Product A,483.19
+North America,Product B,1155.05
+Asia,Product C,669.12
+North America,Product A,1167.95
+South America,Product A,639.89
+Asia,Product C,1018.99
+Africa,Product A,584.52
+North America,Product B,985.57
+North America,Product B,573.15
+Asia,Product C,603.72
+North America,Product B,586.12
+Australia,Product A,752.49
+Africa,Product A,504.8
+Asia,Product C,692.22
+Australia,Product A,922.13
+Europe,Product C,700.44
+Asia,Product C,831.89
+North America,Product C,1389.19
+South America,Product A,547.2
+Australia,Product B,1110.5
+Europe,Product B,757.89
+South America,Product A,712.65
+South America,Product A,515.87
+Africa,Product A,447.62
+Europe,Product B,425.79
+Europe,Product B,578.17
+Australia,Product C,903.21
+Africa,Product A,440.6
+Africa,Product B,351.25
+North America,Product C,1064.3
+Asia,Product B,924.67
+Europe,Product B,716.7
+Asia,Product C,747.13
+South America,Product B,378.63
+South America,Product A,542.06
+Australia,Product B,668.61
+Asia,Product C,776.36
+Asia,Product B,904.55
+South America,Product A,508.7
+South America,Product B,451.28
+Europe,Product B,404.31
+North America,Product A,1048.54
+South America,Product A,498.7
+Europe,Product A,811.84
+South America,Product A,471.14
+North America,Product B,1339.13
+North America,Product A,1011.45
+Africa,Product A,623.44
+South America,Product A,529.06
+Africa,Product B,524.02
+Australia,Product C,1008.62
+South America,Product B,455.92
+South America,Product B,431.41
+Africa,Product A,541.86
+Asia,Product C,656.64
+North America,Product A,857.21
+Africa,Product A,529.01
+Australia,Product B,1195.79
+Australia,Product A,1157.91
+Asia,Product C,780.02
+Australia,Product A,1164.24
+Australia,Product A,1080.66
+Africa,Product A,550.45
+Australia,Product A,938.21
+Europe,Product A,871.55
+Europe,Product C,528.78
+Europe,Product A,806.52
+South America,Product A,476.13
+Europe,Product A,578
+Australia,Product A,963.86
+North America,Product A,952.02
+Australia,Product B,920.24
+North America,Product A,970.09
+North America,Product B,708.6
+South America,Product A,491.02
+South America,Product A,454.35
+North America,Product B,1349.56
+South America,Product A,528.61
+Africa,Product B,394.88
+Australia,Product A,724.82
+Europe,Product C,764.07
+Africa,Product B,435.23
+Africa,Product B,457.06
+Asia,Product C,857.53
+Asia,Product C,759.39
+Europe,Product A,1001.23
+Asia,Product B,546.73
+Asia,Product B,845.6
+Europe,Product C,522.27
+North America,Product A,797.69
+Asia,Product C,956.51
+North America,Product A,1364.15
+Europe,Product C,640.89
+Africa,Product B,575.52
+North America,Product B,1157.91
+South America,Product A,323.94
+Africa,Product A,599.84
+Australia,Product B,1281.24
+Africa,Product A,536.77
+Africa,Product A,433.07
+Europe,Product A,706.08
+Africa,Product B,495.66
+Australia,Product B,1116.26
+South America,Product B,563.9
+Asia,Product C,717.77
+North America,Product C,957.68
+Asia,Product C,721
+South America,Product A,473.69
+Africa,Product B,442.1
+Europe,Product C,734.3
+South America,Product B,434.43
+South America,Product A,523.02
+Australia,Product A,877.32
+North America,Product B,1061.47
+Africa,Product B,533.08
+Australia,Product B,1022.22
+Australia,Product A,762.13
+Asia,Product C,946.92
+Australia,Product B,1075.74
+South America,Product A,533.23
+Australia,Product A,1030.4
+South America,Product A,735.45
+Africa,Product A,492.31
+Europe,Product A,515.17
+Asia,Product C,670.38
+South America,Product A,554.89
+Africa,Product A,378.73
+Australia,Product B,727.92
+South America,Product A,567.35
+Africa,Product B,462.3
+Australia,Product B,1246.52
+North America,Product B,1037.87
+Europe,Product B,281.45
+South America,Product A,479.32
+South America,Product A,418.94
+South America,Product A,477.64
+North America,Product B,908.45
+North America,Product B,814.59
+Africa,Product A,403.25
+Europe,Product B,704.16
+Asia,Product B,1001.51
+Asia,Product B,377.59
+Asia,Product C,1037.65
+South America,Product A,521.35
+South America,Product A,526.46
+Asia,Product C,615.11
+Asia,Product C,470.08
+Africa,Product A,457.12
+Africa,Product B,515.36
+South America,Product A,570.94
+North America,Product B,1263.77
+Australia,Product A,1226.82
+South America,Product A,227.58
+Europe,Product A,354.28
+Australia,Product A,1208.09
+Africa,Product A,514.33
+South America,Product B,396.38
+North America,Product A,1209.91
+Europe,Product A,447.61
+Africa,Product A,579.86
+Africa,Product B,439.83
+Asia,Product B,614.14
+Australia,Product A,679.39
+Europe,Product A,781.31
+North America,Product A,942.5
+Asia,Product C,783.3
+North America,Product B,1069.38
+North America,Product B,750.04
+South America,Product A,505
+Australia,Product B,911.3
+Africa,Product B,485.52
+South America,Product A,504.46
+Asia,Product C,725.09
+Europe,Product A,686.21
+Africa,Product B,486.19
+Asia,Product C,826.05
+Europe,Product B,640.11
+Asia,Product B,884.9
+Africa,Product A,355.55
+Africa,Product A,406.92
+Africa,Product A,404.07
+South America,Product B,429.99
+North America,Product A,776.69
+North America,Product A,1068.55
+North America,Product B,1291.75
+Europe,Product B,737.72
+Europe,Product A,853.4
+Asia,Product B,1311.79
+North America,Product A,819.04
+Africa,Product A,498.76
+Europe,Product A,603.72
+North America,Product A,1093.94
+Africa,Product A,541.31
+North America,Product B,858.27
+Asia,Product B,808.31
+Africa,Product B,409.95
+Asia,Product C,795.88
+Asia,Product C,936.15
+South America,Product A,592.42
+South America,Product A,478.69
+North America,Product B,1266.75
+Europe,Product C,386.49
+Australia,Product B,1084.11
+Australia,Product B,975.45
+Asia,Product B,1072.25
+Africa,Product A,393.87
+Europe,Product C,721.29
+Australia,Product A,1376.71
+North America,Product B,770.67
+Australia,Product B,1127.03
+South America,Product A,407.53
+South America,Product B,457.51
+Asia,Product C,706.24
+Asia,Product C,797.13
+Asia,Product C,1002.26
+South America,Product A,525.14
+Africa,Product C,561.18
+South America,Product A,493.59
+Asia,Product B,805.71
+Australia,Product A,1062.92
+Australia,Product B,1382.04
+Africa,Product A,691.31
+Australia,Product C,889.46
+Africa,Product A,498.88
+North America,Product B,887.92
+Africa,Product A,496.78
+South America,Product C,445.04
+North America,Product B,936.87
+Europe,Product A,482.36
+South America,Product B,652.64
+South America,Product B,507.33
+North America,Product A,1197.84
+Europe,Product B,747.78
+Asia,Product B,888.6
+Africa,Product A,530.77
+Asia,Product C,971.78
+South America,Product A,467.91
+North America,Product B,1219.93
+South America,Product A,519.61
+Africa,Product A,491.57
+Europe,Product A,854.63
+North America,Product C,1050.24
+Asia,Product C,429.39
+Australia,Product B,924.16
+Asia,Product C,753.25
+Asia,Product C,601.18
+Africa,Product B,499.79
+Europe,Product B,625.25
+South America,Product A,616.03
+North America,Product B,1037.61
+Africa,Product A,499.74
+Europe,Product B,855.47
+Europe,Product A,596.85
+Africa,Product A,543.32
+Asia,Product B,552.99
+Africa,Product A,306.76
+Europe,Product A,638.49
+Asia,Product B,774.53
+South America,Product C,678.86
+South America,Product A,625.31
+Australia,Product B,945.43
+Australia,Product B,959.13
+Asia,Product C,711.26
+Europe,Product C,531.75
+Asia,Product C,882.28
+Australia,Product A,743.57
+Africa,Product B,477.77
+Asia,Product C,1376.78
+South America,Product A,526.01
+South America,Product A,674.04
+Europe,Product B,544.91
+Europe,Product B,333.21
+Australia,Product B,926.19
+Africa,Product A,381.82
+North America,Product B,1001.37
+North America,Product B,1262.63
+North America,Product A,727
+Asia,Product B,629.1
+Africa,Product A,357.22
+South America,Product B,416.97
+Europe,Product A,536.82
+North America,Product B,991.45
+Europe,Product B,951.53
+Asia,Product C,834.24
+Asia,Product C,753.3
+South America,Product A,531.95
+Asia,Product B,670.61
+Australia,Product B,776.47
+Europe,Product B,933.99
+Europe,Product A,539.43
+Europe,Product A,429.93
+Europe,Product A,930.51
+South America,Product A,521.76
+Australia,Product B,946.64
+Europe,Product A,581.6
+Asia,Product C,885.11
+Africa,Product A,578.85
+Australia,Product A,1204.36
+South America,Product B,420.55
+Africa,Product B,506.25
+Europe,Product B,521.33
+Asia,Product C,718.67
+Africa,Product B,494.38
+Africa,Product A,377.66
+Asia,Product C,526.76
+North America,Product A,834.22
+South America,Product B,459.83
+North America,Product B,933.09
+Africa,Product B,387.18
+Europe,Product A,851.46
+Europe,Product B,662.46
+Africa,Product A,594.35
+Asia,Product B,774.69
+Europe,Product A,347.94
+Australia,Product A,796.04
+North America,Product B,1294.06
+South America,Product A,524.88
+North America,Product A,986.77
+Australia,Product A,725.73
+Africa,Product A,466.29
+Africa,Product A,482.97
+Australia,Product A,980.66
+North America,Product B,901.53
+Africa,Product C,430.17
+North America,Product B,957.09
+Africa,Product A,399.44
+North America,Product B,1008.41
+Australia,Product B,1222.24
+Australia,Product A,1001.73
+Australia,Product B,1207.81
+Australia,Product A,1036.15
+South America,Product A,410.33
+North America,Product B,957.74
+Asia,Product B,859.84
+Europe,Product A,544.32
+Australia,Product B,945.34
+Australia,Product B,1073.72
+North America,Product B,1039.64
+Europe,Product B,332.7
+Asia,Product C,568.18
+Europe,Product C,598.46
+Asia,Product C,1049.27
+North America,Product B,732.3
+North America,Product B,1054.61
+Asia,Product C,743.48
+Europe,Product A,524.24
+Africa,Product A,640.72
+North America,Product B,887.42
+North America,Product B,1014.87
+South America,Product A,286.27
+Asia,Product C,707.56
+North America,Product A,1086.81
+Australia,Product C,1108.48
+South America,Product C,432.49
+North America,Product B,1026.8
+North America,Product A,1397.16
+Asia,Product B,1014.44
+Africa,Product A,531.99
+Africa,Product A,531.58
+Europe,Product A,609.3
+South America,Product B,399.38
+Australia,Product B,817.18
+Europe,Product A,671.82
+Africa,Product B,402.44
+Asia,Product C,816.3
+Australia,Product B,874.91
+North America,Product A,1176.28
+North America,Product B,746.42
+North America,Product A,672.23
+Asia,Product C,582.82
+North America,Product B,1174.81
+Asia,Product C,865.74
+North America,Product B,1224.76
+Africa,Product A,537.75
+Asia,Product C,1359.09
+Asia,Product C,1037.3
+Australia,Product B,902.37
+South America,Product A,581.08
+Africa,Product A,387.92
+North America,Product C,679.79
+Australia,Product B,1197.17
+North America,Product B,1106.02
+Australia,Product A,833.13
+Australia,Product A,1222.53
+Africa,Product A,453.52
+Australia,Product C,760.07
+Africa,Product A,563.53
+Europe,Product A,784.77
+Africa,Product A,395.94
+Europe,Product B,576.44
+North America,Product A,596.71
+Europe,Product C,843.86
+Europe,Product B,412.36
+Australia,Product A,902.8
+Africa,Product B,445.76
+Asia,Product B,758.98
+North America,Product B,1115.63
+South America,Product A,521.83
+Africa,Product B,469.08
+North America,Product A,1489.23
+Europe,Product B,727.96
+Asia,Product C,882.43
+South America,Product B,421.39
+Europe,Product A,740.89
+South America,Product A,723.64
+South America,Product A,434.96
+South America,Product A,557.3
+Africa,Product A,464.14
+North America,Product B,1017.87
+Asia,Product C,393.25
+Africa,Product A,587.32
+Africa,Product A,391.61
+Africa,Product A,603.45
+Australia,Product A,985.88
+South America,Product A,607.89
+Europe,Product C,864.67
+Australia,Product C,984.96
+Asia,Product C,1167.09
+Asia,Product B,893.09
+Asia,Product C,787.97
+Europe,Product B,772.31
+North America,Product B,842.82
+Europe,Product C,441.32
+North America,Product B,1045.65
+Africa,Product B,609.4
+South America,Product A,523.8
+Europe,Product A,464.54
+Africa,Product A,422.08
+North America,Product C,1133.14
+Asia,Product C,802.09
+Australia,Product B,739.05
+Asia,Product C,848.8
+Africa,Product A,463.02
+South America,Product A,545.18
+Europe,Product B,671.34
+Europe,Product C,616.17
+North America,Product A,946.02
+South America,Product A,482.59
+Europe,Product B,747.3
+South America,Product A,417.26
+Africa,Product A,564.33
+Australia,Product A,626.43
+Australia,Product A,1074.28
+North America,Product A,1159.17
+Australia,Product A,1067.95
+Australia,Product B,1052.55
+Australia,Product B,868.05
+South America,Product A,535.79
+Asia,Product C,854.99
+South America,Product C,456.48
+South America,Product A,624.17
+Australia,Product A,1009.47
+Australia,Product A,1117.04
+Africa,Product A,664.61
+Europe,Product B,410.84
+South America,Product A,590.36
+Asia,Product B,921.83
+Europe,Product C,675.87
+North America,Product A,707.51
+North America,Product A,1199.02
+North America,Product B,895.14
+Asia,Product C,780.67
+Africa,Product A,567.45
+Australia,Product B,657.51
+Asia,Product C,735.55
+North America,Product B,952.29
+South America,Product A,509.2
+Asia,Product C,1313.78
+Europe,Product A,603.85
+North America,Product B,893.55
+Europe,Product B,800.94
+North America,Product B,1238.29
+South America,Product A,416.48
+South America,Product A,459.62
+South America,Product A,720.57
+South America,Product A,521.7
+Europe,Product C,857.47
+Australia,Product B,708.66
+North America,Product B,1150.64
+North America,Product B,660.94
+Europe,Product B,598.49
+Africa,Product A,478.71
+South America,Product A,635.32
+Africa,Product A,456.27
+Europe,Product C,621.72
+Africa,Product C,581.62
+Asia,Product C,1000.48
+North America,Product B,1102.28
+Europe,Product A,612.52
+Asia,Product C,690.81
+North America,Product A,1176.34
+Australia,Product B,707.28
+Asia,Product C,595.7
+Australia,Product B,1154.93
+Asia,Product C,846.51
+North America,Product B,1265.89
+Europe,Product A,645.57
+Africa,Product A,360.12
+Australia,Product A,1237
+South America,Product B,531.7
+South America,Product A,487.56
+Europe,Product B,613.12
+Asia,Product C,786.17
+Europe,Product B,1016.77
+North America,Product B,935.78
+South America,Product A,643.66
+Australia,Product B,949.24
+Asia,Product C,912.29
+Asia,Product C,842.52
+North America,Product B,1021.64
+Africa,Product B,625.19
+Australia,Product A,1025.89
+North America,Product A,1140.27
+Africa,Product A,428.8
+Europe,Product B,711.71
+Asia,Product B,526.17
+South America,Product A,664.51
+Australia,Product A,623.5
+South America,Product B,321.99
+Europe,Product B,506.67
+Australia,Product A,1073.39
+Australia,Product C,897.88
+Africa,Product B,346.02
+Africa,Product A,418.95
+South America,Product A,575.29
+Australia,Product B,893.32
+Asia,Product B,768.22
+North America,Product B,1367.59
+Asia,Product B,585.53
+Africa,Product A,494.05
+Asia,Product C,1107.43
+Europe,Product A,691.96
+Africa,Product A,580.66
+Europe,Product B,339.82
+South America,Product A,440.3
+Africa,Product A,581.81
+Africa,Product A,523.8
+North America,Product B,1180.21
+North America,Product B,1116.18
+Asia,Product C,723.88
+Europe,Product C,400.27
+North America,Product B,938.61
+Europe,Product A,834.05
+North America,Product B,1045.39
+Asia,Product B,889.67
+Europe,Product B,614.61
+South America,Product A,400.15
+Asia,Product C,908.4
+Australia,Product B,1483.36
+Australia,Product C,1137.02
+Africa,Product A,342.35
+Australia,Product B,956.39
+Europe,Product C,648.43
+Australia,Product B,1096.89
+Asia,Product B,482.33
+North America,Product B,1026.03
+Asia,Product B,981.15
+Asia,Product C,882.93
+Africa,Product B,669.62
+North America,Product A,967.44
+Asia,Product C,723.62
+Europe,Product B,591.27
+South America,Product A,422.74
+South America,Product A,562.97
+Europe,Product C,578.09
+North America,Product B,1098.27
+Europe,Product A,676.84
+Australia,Product C,966.36
+Asia,Product C,814.52
+Asia,Product C,1038.93
+Australia,Product B,797.81
+North America,Product A,934.88
+North America,Product A,603.65
+Europe,Product A,613.51
+Africa,Product A,384.57
+Africa,Product A,564.28
+Europe,Product C,678.87
+Asia,Product C,959.24
+Europe,Product A,433.51
+South America,Product A,587.64
+Europe,Product B,796.67
+Africa,Product A,454.53
+Europe,Product A,779.13
+Australia,Product A,1004.33
+North America,Product A,1103
+Africa,Product B,549.91
+South America,Product A,509.8
+Europe,Product B,686.14
+Asia,Product B,858.54
+North America,Product A,675.82
+Africa,Product A,438.76
+North America,Product B,1129.25
+Asia,Product B,782.01
+Europe,Product B,466.88
+Asia,Product C,854.04
+Australia,Product A,904.6
+Africa,Product A,607.14
+Europe,Product A,847.95
+Europe,Product B,534.23
+Australia,Product B,1070.58
+Africa,Product A,468.23
+Australia,Product A,983.35
+Africa,Product A,424.35
+Europe,Product A,767.99
+Asia,Product C,743.52
+Europe,Product A,700.34
+Australia,Product A,917.37
+North America,Product A,1148.36
+Europe,Product B,761.93
+Australia,Product C,1216.43
+South America,Product B,512.31
+North America,Product A,953.95
+Africa,Product A,468.79
+North America,Product A,1292.82
+Australia,Product A,756.83
+Asia,Product B,738.51
+Europe,Product B,662.94
+Australia,Product B,934.02
+Australia,Product B,891.96
+Asia,Product C,584.17
+Asia,Product C,848.65
+Asia,Product C,1044.4
+North America,Product B,1075.43
+Africa,Product B,413.09
+Africa,Product C,441.07
+Australia,Product B,851.78
+North America,Product B,787.45
+Asia,Product C,848.65
+Australia,Product B,1161.81
+Europe,Product A,521.91
+Asia,Product B,800.63
+Europe,Product C,692.4
+Asia,Product C,822.35
+Australia,Product C,736.21
+North America,Product B,1045.73
+Australia,Product B,1195.69
+North America,Product A,1185.56
+Europe,Product B,809.98
+North America,Product B,1231.16
+Europe,Product B,573.84
+Asia,Product C,1198.72
+Europe,Product A,787.2
+Asia,Product B,412.58
+Asia,Product C,640.27
+South America,Product B,319.41
+Europe,Product A,859.25
+North America,Product A,1010.94
+Europe,Product B,551.45
+Europe,Product C,685.8
+South America,Product B,474.63
+Africa,Product B,483.19
+Europe,Product A,477.79
+Europe,Product C,1159.65
+Europe,Product C,619.83
+Australia,Product A,1076.07
+Europe,Product C,811.78
+Africa,Product A,418.92
+Europe,Product A,584.36
+North America,Product A,1146.97
+Europe,Product B,585.07
+South America,Product A,591.87
+Asia,Product B,744.38
+South America,Product A,442.43
+Asia,Product C,638.87
+Europe,Product C,544.68
+Europe,Product B,593.2
+North America,Product B,892.22
+Africa,Product A,653.69
+North America,Product C,853.17
+Asia,Product B,872.34
+South America,Product C,464.96
+South America,Product A,505.2
+South America,Product A,485.22
+Australia,Product A,863.15
+Australia,Product A,905.26
+Europe,Product B,474.35
+Asia,Product B,1150.85
+Africa,Product B,471.97
+South America,Product B,598.45
+Africa,Product A,444.03
+South America,Product B,630.61
+South America,Product C,391
+Asia,Product B,954.51
+North America,Product B,761.45
+North America,Product B,1160.31
+North America,Product A,1086.33
+South America,Product A,412.58
+Europe,Product A,740.61
+Europe,Product C,742.57
+North America,Product A,1009.65
+North America,Product A,1101.43
+North America,Product B,974.81
+North America,Product A,1243.79
+South America,Product B,360.72
+Asia,Product C,971.68
+North America,Product A,1233.06
+Asia,Product B,745.66
+North America,Product B,889.63
+South America,Product A,722.28
+Africa,Product A,153.62
+South America,Product B,436.52
+Africa,Product A,768.13
+South America,Product A,418.37
+Europe,Product B,670.49
+Asia,Product C,590.49
+Asia,Product C,906.74
+Europe,Product C,517.18
+North America,Product A,1422.9
+Asia,Product C,775.87
+Europe,Product B,1008
+Africa,Product B,485.79
+Africa,Product A,530.03
+Africa,Product B,568.3
+Asia,Product B,838.22
+North America,Product B,1109.52
+Africa,Product A,413.6
+North America,Product B,823.99
+Asia,Product C,517.89
+Europe,Product B,986.43
+Africa,Product A,556.99
+Australia,Product B,738.01
+Europe,Product C,611.47
+Asia,Product C,1122.41
+Asia,Product B,855.62
+Africa,Product A,624.1
+Asia,Product C,875.28
+South America,Product B,550.25
+Europe,Product A,296.43
+Europe,Product C,702.36
+Africa,Product A,472.6
+South America,Product A,375.94
+Europe,Product B,816.3
+Africa,Product B,716.67
+Europe,Product B,713.92
+Africa,Product A,619.2
+North America,Product B,989.06
+Europe,Product B,852.02
+Africa,Product A,406.81
+Australia,Product A,1081.39
+North America,Product B,1154.49
+Africa,Product A,353.7
+Asia,Product B,723.52
+Asia,Product C,971.62
+Europe,Product A,708.39
+Australia,Product B,1260.31
+Australia,Product C,1053.65
+Europe,Product B,952.34
+Asia,Product C,882.16
+North America,Product B,1139.07
+Africa,Product A,427.27
+North America,Product A,894.14
+North America,Product B,931.42
+Europe,Product B,218.59
+Asia,Product B,661.29
+Asia,Product B,871.27
+Europe,Product B,497.94
+North America,Product B,1191.24
+Australia,Product B,1106.4
+South America,Product A,378.98
+Asia,Product B,1048.58
+Europe,Product A,892.49
+Australia,Product B,837.26
+Australia,Product A,1127.69
+North America,Product B,753.92
+South America,Product A,551.83
+Australia,Product B,1163.49
+Africa,Product A,596.81
+Europe,Product A,674.35
+Asia,Product B,896.4
+South America,Product A,462.69
+Asia,Product C,591.5
+South America,Product A,499.41
+North America,Product B,1087.25
+Africa,Product B,591.75
+Asia,Product C,901.75
+Asia,Product C,615.66
+Australia,Product B,869.28
+Asia,Product C,717.31
+Asia,Product B,862.85
+Australia,Product B,971.22
+Asia,Product C,644.32
+North America,Product B,895.7
+Asia,Product B,241.85
+Asia,Product C,1176.41
+Australia,Product A,1044.54
+South America,Product C,478.42
+Europe,Product A,830.81
+Europe,Product C,732.77
+Australia,Product C,838.82
+Africa,Product A,714.62
+North America,Product B,797.29
+Asia,Product C,1206.28
+Africa,Product B,538.17
+North America,Product B,1160.7
+North America,Product B,1104.63
+Asia,Product C,714.89
+Australia,Product B,1123.66
+South America,Product A,406.58
+Asia,Product C,824.33
+South America,Product B,398.45
+Asia,Product C,734.67
+South America,Product B,619.58
+Australia,Product A,946.79
+Europe,Product B,508.97
+South America,Product B,383.81
+North America,Product B,936.34
+North America,Product B,1047.23
+Europe,Product A,542.14
+Asia,Product C,617.56
+North America,Product A,1203.56
+Europe,Product B,541.85
+North America,Product B,912.81
+Australia,Product B,966.68
+Europe,Product A,639.77
+Asia,Product B,1133.4
+South America,Product A,474.47
+South America,Product A,499.12
+Europe,Product C,711.68
+North America,Product B,1254.85
+Africa,Product C,559.81
+Australia,Product B,802.19
+Africa,Product A,540.84
+Australia,Product B,1183.39
+Australia,Product A,1096.44
+Europe,Product A,486.94
+South America,Product A,433.3
+North America,Product B,1068.06
+Africa,Product B,407.57
+Asia,Product C,992.76
+South America,Product B,523.75
+Africa,Product A,392.41
+North America,Product A,1061.93
+Europe,Product C,445.62
+Africa,Product B,489.17
+South America,Product B,575.87
+North America,Product A,881.81
+Australia,Product A,1091.29
+Australia,Product B,1080.62
+Australia,Product B,658.63
+Africa,Product A,477.31
+Africa,Product A,495.73
+South America,Product B,448.7
+South America,Product A,362.02
+South America,Product A,558.8
+Asia,Product B,553.59
+Australia,Product B,1234.31
+Europe,Product A,535.28
+Europe,Product A,224.32
+Asia,Product C,782.56
+Africa,Product A,638.84
+South America,Product A,558.08
+Africa,Product A,719.66
+South America,Product B,384.5
+Europe,Product B,689.64
+North America,Product A,1099.56
+Asia,Product C,870.61
+Australia,Product B,937.86
+Africa,Product B,559.28
+Australia,Product B,550.7
+Asia,Product B,480.83
+Europe,Product B,549.29

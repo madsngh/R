@@ -1,0 +1,42 @@
+#A drug company tested three formulations of a pain relief medicine for migraine headache sufferers. For the experiment 27 volunteers were selected and 9 were random;ly assigned to one of three drug formations. The subjects were instructed
+
+pain=c(4,5,4,3,2,4,3,4,4,6,8,4,5,4,6,5,8,6,6,7,6,6,7,5,6,5,5)
+drug= c(rep("A",9), rep("B",9), rep("C",9))
+migraine= data.frame(pain,drug)
+
+attach(migraineby (pain, factor(drug), mean)
+by (pain, factor(drug), sd)
+by (pain, factor(drug), var)
+mean(pain)
+sd(pain)
+var(pain)
+
+plot(pain~drug, data=migraine)
+
+results= aov(pain~drug, data=migraine)
+summary(results)
+summary.lm(results)
+
+#Multiple Comparisons
+
+pairwise.t.test(pain,drug, p.adjust="bonferroni")
+
+TukeyHSD(results, conf.level=0.95)
+
+#Two way Anova
+
+gogglesData <- read.csv(file.choose(), header=T)
+View(gogglesData)
+str(gogglesData)
+
+#gogglesData$alcohol <- factor(gogglesData$alcohol,
+                              #levels= c("None", "2 pints", "4 pints"))
+
+by(gogglesData$attractiveness, gogglesData$gender, mean)
+by(gogglesData$attractiveness, gogglesData$alcohol, mean)
+
+gogglesModel <- aov(attractiveness ~ alcohol*gender, data=gogglesData)
+summary(gogglesModel)
+summary.lm(gogglesModel)
+
+

@@ -1,0 +1,1501 @@
+Continent,Product,Revenue,Category,SubCategory
+South America,Product C,719.1,Smart Phone,Apple
+Asia,Product C,833.56,Feature Phone,Nokia
+South America,Product A,468.49,Smart Phone,Nokia
+Australia,Product A,873.52,Smart Phone,Nokia
+South America,Product A,543.55,Smart Phone,Micromax
+Europe,Product A,941.46,Smart Phone,Apple
+Australia,Product B,1277.05,Smart Phone,Nokia
+Africa,Product B,534.5,Feature Phone,Nokia
+Asia,Product C,789,Smart Phone,Micromax
+South America,Product B,412.86,Smart Phone,Apple
+Europe,Product B,752.55,Smart Phone,Nokia
+Africa,Product B,340.3,Smart Phone,Nokia
+Africa,Product A,647.34,Smart Phone,Nokia
+Asia,Product C,377.96,Smart Phone,Micromax
+South America,Product A,619.49,Feature Phone,Nokia
+Asia,Product C,905.95,Feature Phone,Motorola
+South America,Product B,546.43,Feature Phone,Sony
+Europe,Product B,735.99,Smart Phone,Samsung
+South America,Product A,453.51,Feature Phone,Nokia
+Australia,Product B,1066.09,Smart Phone,Micromax
+Australia,Product B,811.03,Feature Phone,Nokia
+Europe,Product B,965.04,Smart Phone,Samsung
+Australia,Product B,1294.17,Smart Phone,Nokia
+North America,Product B,597.85,Smart Phone,Samsung
+Asia,Product C,619.5,Smart Phone,Micromax
+Asia,Product C,966.14,Smart Phone,Nokia
+North America,Product A,1014.7,Smart Phone,Micromax
+Australia,Product C,1163.94,Smart Phone,Apple
+Europe,Product C,410.89,Feature Phone,Motorola
+Europe,Product B,769.21,Smart Phone,Samsung
+Africa,Product A,616.2,Smart Phone,Micromax
+South America,Product A,264.69,Smart Phone,Nokia
+Africa,Product B,516.43,Feature Phone,Motorola
+Australia,Product B,952.74,Smart Phone,Samsung
+Asia,Product B,782.65,Smart Phone,Nokia
+Africa,Product A,428.91,Feature Phone,Motorola
+South America,Product A,376.22,Smart Phone,Micromax
+South America,Product A,610.45,Smart Phone,Micromax
+Australia,Product B,1181.06,Smart Phone,Nokia
+South America,Product B,523.1,Smart Phone,Nokia
+Asia,Product B,525.48,Feature Phone,Motorola
+North America,Product B,789.08,Smart Phone,Nokia
+North America,Product C,1091.15,Feature Phone,Motorola
+Australia,Product B,550.74,Feature Phone,Motorola
+North America,Product B,882.54,Smart Phone,Nokia
+Africa,Product C,399.89,Smart Phone,Nokia
+Europe,Product B,809.94,Smart Phone,Nokia
+South America,Product B,312.55,Smart Phone,Samsung
+Africa,Product A,574.51,Smart Phone,Nokia
+South America,Product A,602.46,Smart Phone,Apple
+South America,Product B,561.61,Smart Phone,Nokia
+Europe,Product C,686.02,Feature Phone,Sony
+Asia,Product C,921.12,Feature Phone,Motorola
+North America,Product B,1180.58,Smart Phone,Apple
+Asia,Product C,768.15,Smart Phone,Apple
+Europe,Product B,740.88,Smart Phone,Micromax
+Asia,Product B,933.33,Smart Phone,Nokia
+North America,Product A,743.96,Feature Phone,Motorola
+South America,Product A,402.07,Smart Phone,Nokia
+Asia,Product C,529.57,Smart Phone,Samsung
+Asia,Product C,886.74,Smart Phone,Micromax
+Africa,Product C,556.91,Feature Phone,Motorola
+Australia,Product A,1133.99,Smart Phone,Micromax
+North America,Product B,998.59,Smart Phone,Samsung
+South America,Product A,490.38,Feature Phone,Motorola
+Africa,Product A,514.46,Feature Phone,Nokia
+Asia,Product C,994.36,Smart Phone,Apple
+North America,Product B,760.57,Smart Phone,Micromax
+Africa,Product A,580.9,Feature Phone,Nokia
+Asia,Product B,414.94,Smart Phone,Micromax
+South America,Product A,510.74,Feature Phone,Nokia
+Europe,Product B,866.71,Smart Phone,Micromax
+Africa,Product A,418.9,Feature Phone,Motorola
+Africa,Product A,664.23,Feature Phone,Motorola
+Australia,Product C,642.85,Smart Phone,Micromax
+Africa,Product A,468.07,Smart Phone,Micromax
+Australia,Product B,1214.2,Feature Phone,Nokia
+South America,Product C,464.62,Smart Phone,Samsung
+South America,Product A,483.92,Smart Phone,Micromax
+Europe,Product A,648.57,Feature Phone,Motorola
+North America,Product A,1388.46,Feature Phone,Motorola
+North America,Product A,1149.24,Smart Phone,Apple
+Asia,Product B,626.42,Feature Phone,Nokia
+South America,Product A,599.16,Smart Phone,Nokia
+North America,Product A,674.22,Smart Phone,Micromax
+Africa,Product A,613.31,Smart Phone,Nokia
+Australia,Product B,1365.17,Feature Phone,Nokia
+North America,Product B,895.38,Smart Phone,Samsung
+Asia,Product C,732.85,Smart Phone,Nokia
+South America,Product B,521.11,Smart Phone,Micromax
+Africa,Product A,471.8,Feature Phone,Nokia
+Asia,Product C,1092.07,Smart Phone,Samsung
+Australia,Product B,843.36,Smart Phone,Micromax
+Africa,Product A,399.28,Smart Phone,Nokia
+Australia,Product A,959.38,Smart Phone,Nokia
+South America,Product A,256.64,Smart Phone,Micromax
+Asia,Product C,805.81,Feature Phone,Nokia
+North America,Product B,983.53,Feature Phone,Nokia
+South America,Product B,526.36,Feature Phone,Nokia
+Europe,Product B,524.8,Feature Phone,Motorola
+Europe,Product B,395.85,Smart Phone,Apple
+Australia,Product C,1235.7,Feature Phone,Sony
+Europe,Product B,449.46,Feature Phone,Motorola
+Europe,Product C,526.68,Smart Phone,Apple
+Africa,Product B,525.58,Feature Phone,Nokia
+Africa,Product A,675.9,Smart Phone,Micromax
+Africa,Product A,331.92,Smart Phone,Micromax
+Asia,Product B,905.62,Smart Phone,Nokia
+Asia,Product B,746.19,Smart Phone,Nokia
+Africa,Product A,598.5,Smart Phone,Micromax
+Asia,Product B,874.7,Smart Phone,Micromax
+North America,Product A,823.05,Smart Phone,Micromax
+Europe,Product C,788.23,Smart Phone,Apple
+Africa,Product A,455.22,Smart Phone,Nokia
+Africa,Product A,551.79,Feature Phone,Nokia
+Asia,Product C,724.92,Smart Phone,Samsung
+Australia,Product B,930.56,Feature Phone,Motorola
+Asia,Product C,1197.88,Smart Phone,Samsung
+Australia,Product A,772.74,Smart Phone,Nokia
+South America,Product B,602.73,Feature Phone,Nokia
+Africa,Product A,512.34,Smart Phone,Nokia
+Europe,Product B,735.39,Smart Phone,Micromax
+Australia,Product A,1179.96,Smart Phone,Samsung
+Europe,Product C,973.2,Feature Phone,Motorola
+Africa,Product A,534.72,Smart Phone,Nokia
+Europe,Product A,308.04,Feature Phone,Nokia
+Asia,Product B,762.93,Smart Phone,Nokia
+South America,Product A,615.48,Feature Phone,Motorola
+Australia,Product B,907.9,Smart Phone,Nokia
+Asia,Product C,993.07,Smart Phone,Micromax
+Asia,Product B,717.65,Smart Phone,Micromax
+Asia,Product B,1034.86,Feature Phone,Motorola
+South America,Product B,503.81,Smart Phone,Nokia
+Asia,Product C,953.45,Smart Phone,Micromax
+Africa,Product B,618.25,Smart Phone,Micromax
+North America,Product B,1086.63,Smart Phone,Micromax
+Europe,Product A,745.34,Smart Phone,Samsung
+Australia,Product A,936.48,Smart Phone,Samsung
+North America,Product B,867.17,Smart Phone,Micromax
+Africa,Product A,483.19,Feature Phone,Nokia
+North America,Product B,1155.05,Smart Phone,Apple
+Asia,Product C,669.12,Smart Phone,Micromax
+North America,Product A,1167.95,Feature Phone,Motorola
+South America,Product A,639.89,Smart Phone,Samsung
+Asia,Product C,1018.99,Smart Phone,Nokia
+Africa,Product A,584.52,Feature Phone,Nokia
+North America,Product B,985.57,Smart Phone,Samsung
+North America,Product B,573.15,Feature Phone,Nokia
+Asia,Product C,603.72,Smart Phone,Micromax
+North America,Product B,586.12,Smart Phone,Nokia
+Australia,Product A,752.49,Smart Phone,Micromax
+Africa,Product A,504.8,Smart Phone,Micromax
+Asia,Product C,692.22,Smart Phone,Micromax
+Australia,Product A,922.13,Smart Phone,Samsung
+Europe,Product C,700.44,Feature Phone,Nokia
+Asia,Product C,831.89,Smart Phone,Micromax
+North America,Product C,1389.19,Feature Phone,Sony
+South America,Product A,547.2,Smart Phone,Nokia
+Australia,Product B,1110.5,Feature Phone,Motorola
+Europe,Product B,757.89,Smart Phone,Samsung
+South America,Product A,712.65,Smart Phone,Micromax
+South America,Product A,515.87,Smart Phone,Micromax
+Africa,Product A,447.62,Smart Phone,Apple
+Europe,Product B,425.79,Smart Phone,Apple
+Europe,Product B,578.17,Smart Phone,Micromax
+Australia,Product C,903.21,Smart Phone,Micromax
+Africa,Product A,440.6,Smart Phone,Micromax
+Africa,Product B,351.25,Smart Phone,Nokia
+North America,Product C,1064.3,Feature Phone,Motorola
+Asia,Product B,924.67,Feature Phone,Nokia
+Europe,Product B,716.7,Smart Phone,Micromax
+Asia,Product C,747.13,Feature Phone,Motorola
+South America,Product B,378.63,Feature Phone,Nokia
+South America,Product A,542.06,Feature Phone,Motorola
+Australia,Product B,668.61,Smart Phone,Samsung
+Asia,Product C,776.36,Smart Phone,Apple
+Asia,Product B,904.55,Smart Phone,Nokia
+South America,Product A,508.7,Feature Phone,Motorola
+South America,Product B,451.28,Smart Phone,Apple
+Europe,Product B,404.31,Smart Phone,Apple
+North America,Product A,1048.54,Feature Phone,Motorola
+South America,Product A,498.7,Smart Phone,Micromax
+Europe,Product A,811.84,Feature Phone,Motorola
+South America,Product A,471.14,Smart Phone,Micromax
+North America,Product B,1339.13,Feature Phone,Sony
+North America,Product A,1011.45,Feature Phone,Nokia
+Africa,Product A,623.44,Smart Phone,Apple
+South America,Product A,529.06,Smart Phone,Micromax
+Africa,Product B,524.02,Smart Phone,Apple
+Australia,Product C,1008.62,Smart Phone,Nokia
+South America,Product B,455.92,Smart Phone,Apple
+South America,Product B,431.41,Smart Phone,Samsung
+Africa,Product A,541.86,Smart Phone,Micromax
+Asia,Product C,656.64,Smart Phone,Nokia
+North America,Product A,857.21,Smart Phone,Samsung
+Africa,Product A,529.01,Smart Phone,Micromax
+Australia,Product B,1195.79,Smart Phone,Micromax
+Australia,Product A,1157.91,Smart Phone,Nokia
+Asia,Product C,780.02,Feature Phone,Motorola
+Australia,Product A,1164.24,Smart Phone,Apple
+Australia,Product A,1080.66,Smart Phone,Samsung
+Africa,Product A,550.45,Feature Phone,Nokia
+Australia,Product A,938.21,Smart Phone,Micromax
+Europe,Product A,871.55,Smart Phone,Micromax
+Europe,Product C,528.78,Feature Phone,Nokia
+Europe,Product A,806.52,Smart Phone,Micromax
+South America,Product A,476.13,Smart Phone,Micromax
+Europe,Product A,578,Feature Phone,Sony
+Australia,Product A,963.86,Feature Phone,Sony
+North America,Product A,952.02,Feature Phone,Motorola
+Australia,Product B,920.24,Feature Phone,Nokia
+North America,Product A,970.09,Smart Phone,Micromax
+North America,Product B,708.6,Feature Phone,Motorola
+South America,Product A,491.02,Smart Phone,Apple
+South America,Product A,454.35,Smart Phone,Micromax
+North America,Product B,1349.56,Smart Phone,Micromax
+South America,Product A,528.61,Smart Phone,Nokia
+Africa,Product B,394.88,Smart Phone,Samsung
+Australia,Product A,724.82,Feature Phone,Motorola
+Europe,Product C,764.07,Smart Phone,Micromax
+Africa,Product B,435.23,Smart Phone,Apple
+Africa,Product B,457.06,Smart Phone,Micromax
+Asia,Product C,857.53,Smart Phone,Samsung
+Asia,Product C,759.39,Smart Phone,Apple
+Europe,Product A,1001.23,Feature Phone,Nokia
+Asia,Product B,546.73,Smart Phone,Nokia
+Asia,Product B,845.6,Smart Phone,Micromax
+Europe,Product C,522.27,Feature Phone,Nokia
+North America,Product A,797.69,Smart Phone,Apple
+Asia,Product C,956.51,Smart Phone,Nokia
+North America,Product A,1364.15,Feature Phone,Motorola
+Europe,Product C,640.89,Feature Phone,Nokia
+Africa,Product B,575.52,Smart Phone,Nokia
+North America,Product B,1157.91,Smart Phone,Samsung
+South America,Product A,323.94,Feature Phone,Nokia
+Africa,Product A,599.84,Smart Phone,Nokia
+Australia,Product B,1281.24,Smart Phone,Micromax
+Africa,Product A,536.77,Smart Phone,Apple
+Africa,Product A,433.07,Smart Phone,Micromax
+Europe,Product A,706.08,Smart Phone,Samsung
+Africa,Product B,495.66,Feature Phone,Motorola
+Australia,Product B,1116.26,Smart Phone,Apple
+South America,Product B,563.9,Smart Phone,Nokia
+Asia,Product C,717.77,Feature Phone,Nokia
+North America,Product C,957.68,Feature Phone,Sony
+Asia,Product C,721,Smart Phone,Micromax
+South America,Product A,473.69,Smart Phone,Nokia
+Africa,Product B,442.1,Smart Phone,Apple
+Europe,Product C,734.3,Feature Phone,Motorola
+South America,Product B,434.43,Smart Phone,Micromax
+South America,Product A,523.02,Smart Phone,Micromax
+Australia,Product A,877.32,Smart Phone,Samsung
+North America,Product B,1061.47,Smart Phone,Samsung
+Africa,Product B,533.08,Feature Phone,Motorola
+Australia,Product B,1022.22,Feature Phone,Motorola
+Australia,Product A,762.13,Feature Phone,Sony
+Asia,Product C,946.92,Smart Phone,Nokia
+Australia,Product B,1075.74,Smart Phone,Micromax
+South America,Product A,533.23,Smart Phone,Apple
+Australia,Product A,1030.4,Smart Phone,Apple
+South America,Product A,735.45,Feature Phone,Sony
+Africa,Product A,492.31,Smart Phone,Apple
+Europe,Product A,515.17,Feature Phone,Sony
+Asia,Product C,670.38,Smart Phone,Micromax
+South America,Product A,554.89,Feature Phone,Nokia
+Africa,Product A,378.73,Smart Phone,Apple
+Australia,Product B,727.92,Feature Phone,Motorola
+South America,Product A,567.35,Smart Phone,Micromax
+Africa,Product B,462.3,Feature Phone,Sony
+Australia,Product B,1246.52,Smart Phone,Samsung
+North America,Product B,1037.87,Smart Phone,Nokia
+Europe,Product B,281.45,Smart Phone,Samsung
+South America,Product A,479.32,Smart Phone,Samsung
+South America,Product A,418.94,Smart Phone,Samsung
+South America,Product A,477.64,Smart Phone,Samsung
+North America,Product B,908.45,Smart Phone,Micromax
+North America,Product B,814.59,Feature Phone,Motorola
+Africa,Product A,403.25,Feature Phone,Motorola
+Europe,Product B,704.16,Smart Phone,Apple
+Asia,Product B,1001.51,Feature Phone,Motorola
+Asia,Product B,377.59,Feature Phone,Nokia
+Asia,Product C,1037.65,Smart Phone,Nokia
+South America,Product A,521.35,Smart Phone,Micromax
+South America,Product A,526.46,Smart Phone,Micromax
+Asia,Product C,615.11,Smart Phone,Nokia
+Asia,Product C,470.08,Smart Phone,Nokia
+Africa,Product A,457.12,Smart Phone,Apple
+Africa,Product B,515.36,Feature Phone,Nokia
+South America,Product A,570.94,Smart Phone,Micromax
+North America,Product B,1263.77,Feature Phone,Nokia
+Australia,Product A,1226.82,Smart Phone,Apple
+South America,Product A,227.58,Smart Phone,Micromax
+Europe,Product A,354.28,Feature Phone,Nokia
+Australia,Product A,1208.09,Smart Phone,Nokia
+Africa,Product A,514.33,Smart Phone,Micromax
+South America,Product B,396.38,Smart Phone,Samsung
+North America,Product A,1209.91,Feature Phone,Nokia
+Europe,Product A,447.61,Smart Phone,Micromax
+Africa,Product A,579.86,Feature Phone,Nokia
+Africa,Product B,439.83,Smart Phone,Samsung
+Asia,Product B,614.14,Smart Phone,Micromax
+Australia,Product A,679.39,Smart Phone,Micromax
+Europe,Product A,781.31,Smart Phone,Apple
+North America,Product A,942.5,Smart Phone,Micromax
+Asia,Product C,783.3,Smart Phone,Micromax
+North America,Product B,1069.38,Feature Phone,Nokia
+North America,Product B,750.04,Smart Phone,Samsung
+South America,Product A,505,Smart Phone,Nokia
+Australia,Product B,911.3,Smart Phone,Apple
+Africa,Product B,485.52,Smart Phone,Apple
+South America,Product A,504.46,Smart Phone,Nokia
+Asia,Product C,725.09,Smart Phone,Nokia
+Europe,Product A,686.21,Smart Phone,Micromax
+Africa,Product B,486.19,Smart Phone,Apple
+Asia,Product C,826.05,Feature Phone,Sony
+Europe,Product B,640.11,Feature Phone,Motorola
+Asia,Product B,884.9,Smart Phone,Nokia
+Africa,Product A,355.55,Smart Phone,Samsung
+Africa,Product A,406.92,Smart Phone,Micromax
+Africa,Product A,404.07,Smart Phone,Micromax
+South America,Product B,429.99,Feature Phone,Motorola
+North America,Product A,776.69,Feature Phone,Nokia
+North America,Product A,1068.55,Smart Phone,Samsung
+North America,Product B,1291.75,Smart Phone,Samsung
+Europe,Product B,737.72,Smart Phone,Apple
+Europe,Product A,853.4,Smart Phone,Micromax
+Asia,Product B,1311.79,Smart Phone,Samsung
+North America,Product A,819.04,Smart Phone,Micromax
+Africa,Product A,498.76,Feature Phone,Motorola
+Europe,Product A,603.72,Feature Phone,Motorola
+North America,Product A,1093.94,Feature Phone,Sony
+Africa,Product A,541.31,Feature Phone,Nokia
+North America,Product B,858.27,Smart Phone,Nokia
+Asia,Product B,808.31,Smart Phone,Micromax
+Africa,Product B,409.95,Smart Phone,Apple
+Asia,Product C,795.88,Smart Phone,Nokia
+Asia,Product C,936.15,Smart Phone,Nokia
+South America,Product A,592.42,Feature Phone,Motorola
+South America,Product A,478.69,Smart Phone,Micromax
+North America,Product B,1266.75,Smart Phone,Micromax
+Europe,Product C,386.49,Feature Phone,Motorola
+Australia,Product B,1084.11,Feature Phone,Motorola
+Australia,Product B,975.45,Smart Phone,Micromax
+Asia,Product B,1072.25,Feature Phone,Motorola
+Africa,Product A,393.87,Smart Phone,Micromax
+Europe,Product C,721.29,Feature Phone,Sony
+Australia,Product A,1376.71,Smart Phone,Nokia
+North America,Product B,770.67,Feature Phone,Nokia
+Australia,Product B,1127.03,Feature Phone,Nokia
+South America,Product A,407.53,Feature Phone,Motorola
+South America,Product B,457.51,Smart Phone,Nokia
+Asia,Product C,706.24,Smart Phone,Nokia
+Asia,Product C,797.13,Smart Phone,Nokia
+Asia,Product C,1002.26,Smart Phone,Nokia
+South America,Product A,525.14,Smart Phone,Micromax
+Africa,Product C,561.18,Smart Phone,Nokia
+South America,Product A,493.59,Smart Phone,Micromax
+Asia,Product B,805.71,Feature Phone,Motorola
+Australia,Product A,1062.92,Smart Phone,Nokia
+Australia,Product B,1382.04,Feature Phone,Nokia
+Africa,Product A,691.31,Smart Phone,Micromax
+Australia,Product C,889.46,Smart Phone,Micromax
+Africa,Product A,498.88,Smart Phone,Micromax
+North America,Product B,887.92,Feature Phone,Nokia
+Africa,Product A,496.78,Smart Phone,Micromax
+South America,Product C,445.04,Smart Phone,Micromax
+North America,Product B,936.87,Feature Phone,Motorola
+Europe,Product A,482.36,Smart Phone,Samsung
+South America,Product B,652.64,Feature Phone,Motorola
+South America,Product B,507.33,Smart Phone,Nokia
+North America,Product A,1197.84,Smart Phone,Samsung
+Europe,Product B,747.78,Smart Phone,Micromax
+Asia,Product B,888.6,Smart Phone,Micromax
+Africa,Product A,530.77,Smart Phone,Nokia
+Asia,Product C,971.78,Feature Phone,Nokia
+South America,Product A,467.91,Feature Phone,Motorola
+North America,Product B,1219.93,Smart Phone,Samsung
+South America,Product A,519.61,Smart Phone,Apple
+Africa,Product A,491.57,Smart Phone,Nokia
+Europe,Product A,854.63,Feature Phone,Sony
+North America,Product C,1050.24,Feature Phone,Sony
+Asia,Product C,429.39,Smart Phone,Micromax
+Australia,Product B,924.16,Smart Phone,Nokia
+Asia,Product C,753.25,Smart Phone,Nokia
+Asia,Product C,601.18,Smart Phone,Nokia
+Africa,Product B,499.79,Feature Phone,Nokia
+Europe,Product B,625.25,Smart Phone,Samsung
+South America,Product A,616.03,Smart Phone,Apple
+North America,Product B,1037.61,Feature Phone,Sony
+Africa,Product A,499.74,Feature Phone,Motorola
+Europe,Product B,855.47,Smart Phone,Apple
+Europe,Product A,596.85,Smart Phone,Micromax
+Africa,Product A,543.32,Smart Phone,Nokia
+Asia,Product B,552.99,Feature Phone,Nokia
+Africa,Product A,306.76,Smart Phone,Apple
+Europe,Product A,638.49,Smart Phone,Nokia
+Asia,Product B,774.53,Smart Phone,Samsung
+South America,Product C,678.86,Smart Phone,Nokia
+South America,Product A,625.31,Smart Phone,Apple
+Australia,Product B,945.43,Smart Phone,Apple
+Australia,Product B,959.13,Smart Phone,Micromax
+Asia,Product C,711.26,Feature Phone,Nokia
+Europe,Product C,531.75,Feature Phone,Sony
+Asia,Product C,882.28,Smart Phone,Micromax
+Australia,Product A,743.57,Smart Phone,Apple
+Africa,Product B,477.77,Smart Phone,Nokia
+Asia,Product C,1376.78,Feature Phone,Nokia
+South America,Product A,526.01,Smart Phone,Micromax
+South America,Product A,674.04,Feature Phone,Motorola
+Europe,Product B,544.91,Smart Phone,Micromax
+Europe,Product B,333.21,Smart Phone,Micromax
+Australia,Product B,926.19,Smart Phone,Samsung
+Africa,Product A,381.82,Feature Phone,Nokia
+North America,Product B,1001.37,Smart Phone,Micromax
+North America,Product B,1262.63,Feature Phone,Motorola
+North America,Product A,727,Smart Phone,Apple
+Asia,Product B,629.1,Feature Phone,Motorola
+Africa,Product A,357.22,Feature Phone,Nokia
+South America,Product B,416.97,Smart Phone,Nokia
+Europe,Product A,536.82,Feature Phone,Nokia
+North America,Product B,991.45,Smart Phone,Apple
+Europe,Product B,951.53,Smart Phone,Micromax
+Asia,Product C,834.24,Feature Phone,Nokia
+Asia,Product C,753.3,Smart Phone,Nokia
+South America,Product A,531.95,Smart Phone,Apple
+Asia,Product B,670.61,Smart Phone,Micromax
+Australia,Product B,776.47,Smart Phone,Nokia
+Europe,Product B,933.99,Smart Phone,Nokia
+Europe,Product A,539.43,Smart Phone,Nokia
+Europe,Product A,429.93,Smart Phone,Nokia
+Europe,Product A,930.51,Feature Phone,Nokia
+South America,Product A,521.76,Smart Phone,Samsung
+Australia,Product B,946.64,Feature Phone,Motorola
+Europe,Product A,581.6,Feature Phone,Nokia
+Asia,Product C,885.11,Feature Phone,Nokia
+Africa,Product A,578.85,Feature Phone,Nokia
+Australia,Product A,1204.36,Smart Phone,Nokia
+South America,Product B,420.55,Smart Phone,Micromax
+Africa,Product B,506.25,Feature Phone,Sony
+Europe,Product B,521.33,Feature Phone,Sony
+Asia,Product C,718.67,Smart Phone,Apple
+Africa,Product B,494.38,Smart Phone,Nokia
+Africa,Product A,377.66,Smart Phone,Nokia
+Asia,Product C,526.76,Feature Phone,Sony
+North America,Product A,834.22,Smart Phone,Nokia
+South America,Product B,459.83,Smart Phone,Micromax
+North America,Product B,933.09,Smart Phone,Micromax
+Africa,Product B,387.18,Feature Phone,Motorola
+Europe,Product A,851.46,Smart Phone,Micromax
+Europe,Product B,662.46,Smart Phone,Micromax
+Africa,Product A,594.35,Smart Phone,Nokia
+Asia,Product B,774.69,Feature Phone,Nokia
+Europe,Product A,347.94,Smart Phone,Nokia
+Australia,Product A,796.04,Smart Phone,Micromax
+North America,Product B,1294.06,Smart Phone,Nokia
+South America,Product A,524.88,Smart Phone,Nokia
+North America,Product A,986.77,Feature Phone,Nokia
+Australia,Product A,725.73,Feature Phone,Nokia
+Africa,Product A,466.29,Smart Phone,Nokia
+Africa,Product A,482.97,Smart Phone,Apple
+Australia,Product A,980.66,Feature Phone,Motorola
+North America,Product B,901.53,Feature Phone,Nokia
+Africa,Product C,430.17,Feature Phone,Nokia
+North America,Product B,957.09,Smart Phone,Micromax
+Africa,Product A,399.44,Smart Phone,Micromax
+North America,Product B,1008.41,Smart Phone,Apple
+Australia,Product B,1222.24,Smart Phone,Nokia
+Australia,Product A,1001.73,Feature Phone,Sony
+Australia,Product B,1207.81,Smart Phone,Nokia
+Australia,Product A,1036.15,Smart Phone,Micromax
+South America,Product A,410.33,Feature Phone,Nokia
+North America,Product B,957.74,Smart Phone,Apple
+Asia,Product B,859.84,Smart Phone,Micromax
+Europe,Product A,544.32,Smart Phone,Nokia
+Australia,Product B,945.34,Feature Phone,Nokia
+Australia,Product B,1073.72,Feature Phone,Motorola
+North America,Product B,1039.64,Smart Phone,Apple
+Europe,Product B,332.7,Smart Phone,Samsung
+Asia,Product C,568.18,Smart Phone,Apple
+Europe,Product C,598.46,Feature Phone,Nokia
+Asia,Product C,1049.27,Smart Phone,Nokia
+North America,Product B,732.3,Smart Phone,Apple
+North America,Product B,1054.61,Feature Phone,Nokia
+Asia,Product C,743.48,Feature Phone,Nokia
+Europe,Product A,524.24,Feature Phone,Motorola
+Africa,Product A,640.72,Feature Phone,Nokia
+North America,Product B,887.42,Feature Phone,Motorola
+North America,Product B,1014.87,Smart Phone,Samsung
+South America,Product A,286.27,Smart Phone,Samsung
+Asia,Product C,707.56,Smart Phone,Samsung
+North America,Product A,1086.81,Smart Phone,Micromax
+Australia,Product C,1108.48,Smart Phone,Micromax
+South America,Product C,432.49,Smart Phone,Apple
+North America,Product B,1026.8,Smart Phone,Micromax
+North America,Product A,1397.16,Feature Phone,Sony
+Asia,Product B,1014.44,Smart Phone,Nokia
+Africa,Product A,531.99,Smart Phone,Micromax
+Africa,Product A,531.58,Feature Phone,Nokia
+Europe,Product A,609.3,Smart Phone,Samsung
+South America,Product B,399.38,Feature Phone,Motorola
+Australia,Product B,817.18,Smart Phone,Apple
+Europe,Product A,671.82,Smart Phone,Samsung
+Africa,Product B,402.44,Smart Phone,Nokia
+Asia,Product C,816.3,Smart Phone,Micromax
+Australia,Product B,874.91,Smart Phone,Nokia
+North America,Product A,1176.28,Feature Phone,Motorola
+North America,Product B,746.42,Feature Phone,Motorola
+North America,Product A,672.23,Smart Phone,Nokia
+Asia,Product C,582.82,Smart Phone,Apple
+North America,Product B,1174.81,Feature Phone,Nokia
+Asia,Product C,865.74,Feature Phone,Nokia
+North America,Product B,1224.76,Smart Phone,Apple
+Africa,Product A,537.75,Feature Phone,Motorola
+Asia,Product C,1359.09,Smart Phone,Samsung
+Asia,Product C,1037.3,Feature Phone,Motorola
+Australia,Product B,902.37,Feature Phone,Nokia
+South America,Product A,581.08,Smart Phone,Apple
+Africa,Product A,387.92,Smart Phone,Nokia
+North America,Product C,679.79,Smart Phone,Nokia
+Australia,Product B,1197.17,Smart Phone,Apple
+North America,Product B,1106.02,Smart Phone,Nokia
+Australia,Product A,833.13,Feature Phone,Motorola
+Australia,Product A,1222.53,Smart Phone,Samsung
+Africa,Product A,453.52,Smart Phone,Nokia
+Australia,Product C,760.07,Feature Phone,Nokia
+Africa,Product A,563.53,Feature Phone,Motorola
+Europe,Product A,784.77,Smart Phone,Apple
+Africa,Product A,395.94,Feature Phone,Sony
+Europe,Product B,576.44,Smart Phone,Micromax
+North America,Product A,596.71,Feature Phone,Motorola
+Europe,Product C,843.86,Feature Phone,Motorola
+Europe,Product B,412.36,Feature Phone,Motorola
+Australia,Product A,902.8,Smart Phone,Micromax
+Africa,Product B,445.76,Smart Phone,Nokia
+Asia,Product B,758.98,Smart Phone,Nokia
+North America,Product B,1115.63,Smart Phone,Micromax
+South America,Product A,521.83,Feature Phone,Sony
+Africa,Product B,469.08,Smart Phone,Nokia
+North America,Product A,1489.23,Feature Phone,Sony
+Europe,Product B,727.96,Smart Phone,Apple
+Asia,Product C,882.43,Feature Phone,Sony
+South America,Product B,421.39,Smart Phone,Apple
+Europe,Product A,740.89,Smart Phone,Nokia
+South America,Product A,723.64,Smart Phone,Micromax
+South America,Product A,434.96,Smart Phone,Nokia
+South America,Product A,557.3,Feature Phone,Nokia
+Africa,Product A,464.14,Feature Phone,Motorola
+North America,Product B,1017.87,Smart Phone,Samsung
+Asia,Product C,393.25,Smart Phone,Micromax
+Africa,Product A,587.32,Smart Phone,Micromax
+Africa,Product A,391.61,Smart Phone,Micromax
+Africa,Product A,603.45,Feature Phone,Nokia
+Australia,Product A,985.88,Smart Phone,Samsung
+South America,Product A,607.89,Smart Phone,Micromax
+Europe,Product C,864.67,Feature Phone,Nokia
+Australia,Product C,984.96,Smart Phone,Nokia
+Asia,Product C,1167.09,Smart Phone,Samsung
+Asia,Product B,893.09,Smart Phone,Nokia
+Asia,Product C,787.97,Smart Phone,Micromax
+Europe,Product B,772.31,Feature Phone,Nokia
+North America,Product B,842.82,Feature Phone,Nokia
+Europe,Product C,441.32,Feature Phone,Motorola
+North America,Product B,1045.65,Smart Phone,Samsung
+Africa,Product B,609.4,Smart Phone,Samsung
+South America,Product A,523.8,Smart Phone,Nokia
+Europe,Product A,464.54,Smart Phone,Nokia
+Africa,Product A,422.08,Smart Phone,Micromax
+North America,Product C,1133.14,Smart Phone,Samsung
+Asia,Product C,802.09,Smart Phone,Apple
+Australia,Product B,739.05,Smart Phone,Apple
+Asia,Product C,848.8,Smart Phone,Apple
+Africa,Product A,463.02,Feature Phone,Motorola
+South America,Product A,545.18,Smart Phone,Nokia
+Europe,Product B,671.34,Smart Phone,Micromax
+Europe,Product C,616.17,Smart Phone,Micromax
+North America,Product A,946.02,Smart Phone,Micromax
+South America,Product A,482.59,Smart Phone,Apple
+Europe,Product B,747.3,Feature Phone,Nokia
+South America,Product A,417.26,Smart Phone,Micromax
+Africa,Product A,564.33,Smart Phone,Samsung
+Australia,Product A,626.43,Smart Phone,Micromax
+Australia,Product A,1074.28,Smart Phone,Micromax
+North America,Product A,1159.17,Smart Phone,Apple
+Australia,Product A,1067.95,Smart Phone,Nokia
+Australia,Product B,1052.55,Smart Phone,Micromax
+Australia,Product B,868.05,Feature Phone,Nokia
+South America,Product A,535.79,Smart Phone,Nokia
+Asia,Product C,854.99,Smart Phone,Samsung
+South America,Product C,456.48,Feature Phone,Nokia
+South America,Product A,624.17,Smart Phone,Micromax
+Australia,Product A,1009.47,Smart Phone,Micromax
+Australia,Product A,1117.04,Feature Phone,Sony
+Africa,Product A,664.61,Feature Phone,Motorola
+Europe,Product B,410.84,Smart Phone,Micromax
+South America,Product A,590.36,Smart Phone,Micromax
+Asia,Product B,921.83,Feature Phone,Motorola
+Europe,Product C,675.87,Smart Phone,Micromax
+North America,Product A,707.51,Smart Phone,Micromax
+North America,Product A,1199.02,Smart Phone,Nokia
+North America,Product B,895.14,Smart Phone,Nokia
+Asia,Product C,780.67,Smart Phone,Nokia
+Africa,Product A,567.45,Smart Phone,Micromax
+Australia,Product B,657.51,Feature Phone,Sony
+Asia,Product C,735.55,Feature Phone,Sony
+North America,Product B,952.29,Smart Phone,Micromax
+South America,Product A,509.2,Smart Phone,Apple
+Asia,Product C,1313.78,Feature Phone,Sony
+Europe,Product A,603.85,Smart Phone,Samsung
+North America,Product B,893.55,Smart Phone,Apple
+Europe,Product B,800.94,Smart Phone,Nokia
+North America,Product B,1238.29,Smart Phone,Nokia
+South America,Product A,416.48,Smart Phone,Micromax
+South America,Product A,459.62,Smart Phone,Apple
+South America,Product A,720.57,Feature Phone,Nokia
+South America,Product A,521.7,Smart Phone,Samsung
+Europe,Product C,857.47,Smart Phone,Nokia
+Australia,Product B,708.66,Smart Phone,Apple
+North America,Product B,1150.64,Feature Phone,Motorola
+North America,Product B,660.94,Smart Phone,Nokia
+Europe,Product B,598.49,Feature Phone,Sony
+Africa,Product A,478.71,Smart Phone,Apple
+South America,Product A,635.32,Smart Phone,Nokia
+Africa,Product A,456.27,Smart Phone,Samsung
+Europe,Product C,621.72,Feature Phone,Sony
+Africa,Product C,581.62,Smart Phone,Apple
+Asia,Product C,1000.48,Smart Phone,Samsung
+North America,Product B,1102.28,Smart Phone,Apple
+Europe,Product A,612.52,Smart Phone,Micromax
+Asia,Product C,690.81,Smart Phone,Apple
+North America,Product A,1176.34,Smart Phone,Micromax
+Australia,Product B,707.28,Smart Phone,Apple
+Asia,Product C,595.7,Smart Phone,Samsung
+Australia,Product B,1154.93,Smart Phone,Samsung
+Asia,Product C,846.51,Feature Phone,Nokia
+North America,Product B,1265.89,Smart Phone,Apple
+Europe,Product A,645.57,Smart Phone,Nokia
+Africa,Product A,360.12,Smart Phone,Micromax
+Australia,Product A,1237,Smart Phone,Micromax
+South America,Product B,531.7,Smart Phone,Nokia
+South America,Product A,487.56,Smart Phone,Micromax
+Europe,Product B,613.12,Smart Phone,Micromax
+Asia,Product C,786.17,Feature Phone,Nokia
+Europe,Product B,1016.77,Smart Phone,Apple
+North America,Product B,935.78,Smart Phone,Nokia
+South America,Product A,643.66,Smart Phone,Micromax
+Australia,Product B,949.24,Smart Phone,Apple
+Asia,Product C,912.29,Smart Phone,Apple
+Asia,Product C,842.52,Feature Phone,Nokia
+North America,Product B,1021.64,Smart Phone,Micromax
+Africa,Product B,625.19,Smart Phone,Micromax
+Australia,Product A,1025.89,Feature Phone,Nokia
+North America,Product A,1140.27,Smart Phone,Apple
+Africa,Product A,428.8,Smart Phone,Nokia
+Europe,Product B,711.71,Feature Phone,Motorola
+Asia,Product B,526.17,Smart Phone,Micromax
+South America,Product A,664.51,Smart Phone,Micromax
+Australia,Product A,623.5,Smart Phone,Micromax
+South America,Product B,321.99,Smart Phone,Micromax
+Europe,Product B,506.67,Feature Phone,Nokia
+Australia,Product A,1073.39,Smart Phone,Micromax
+Australia,Product C,897.88,Smart Phone,Nokia
+Africa,Product B,346.02,Smart Phone,Nokia
+Africa,Product A,418.95,Feature Phone,Sony
+South America,Product A,575.29,Feature Phone,Nokia
+Australia,Product B,893.32,Feature Phone,Nokia
+Asia,Product B,768.22,Smart Phone,Apple
+North America,Product B,1367.59,Smart Phone,Nokia
+Asia,Product B,585.53,Smart Phone,Samsung
+Africa,Product A,494.05,Smart Phone,Samsung
+Asia,Product C,1107.43,Smart Phone,Nokia
+Europe,Product A,691.96,Feature Phone,Nokia
+Africa,Product A,580.66,Smart Phone,Micromax
+Europe,Product B,339.82,Smart Phone,Apple
+South America,Product A,440.3,Smart Phone,Samsung
+Africa,Product A,581.81,Feature Phone,Nokia
+Africa,Product A,523.8,Smart Phone,Nokia
+North America,Product B,1180.21,Smart Phone,Samsung
+North America,Product B,1116.18,Feature Phone,Nokia
+Asia,Product C,723.88,Smart Phone,Micromax
+Europe,Product C,400.27,Feature Phone,Motorola
+North America,Product B,938.61,Feature Phone,Motorola
+Europe,Product A,834.05,Smart Phone,Apple
+North America,Product B,1045.39,Feature Phone,Nokia
+Asia,Product B,889.67,Smart Phone,Micromax
+Europe,Product B,614.61,Smart Phone,Apple
+South America,Product A,400.15,Smart Phone,Nokia
+Asia,Product C,908.4,Feature Phone,Sony
+Australia,Product B,1483.36,Smart Phone,Micromax
+Australia,Product C,1137.02,Smart Phone,Samsung
+Africa,Product A,342.35,Feature Phone,Motorola
+Australia,Product B,956.39,Smart Phone,Nokia
+Europe,Product C,648.43,Smart Phone,Samsung
+Australia,Product B,1096.89,Smart Phone,Nokia
+Asia,Product B,482.33,Smart Phone,Micromax
+North America,Product B,1026.03,Feature Phone,Nokia
+Asia,Product B,981.15,Smart Phone,Nokia
+Asia,Product C,882.93,Feature Phone,Motorola
+Africa,Product B,669.62,Smart Phone,Samsung
+North America,Product A,967.44,Smart Phone,Samsung
+Asia,Product C,723.62,Smart Phone,Micromax
+Europe,Product B,591.27,Smart Phone,Micromax
+South America,Product A,422.74,Smart Phone,Micromax
+South America,Product A,562.97,Feature Phone,Motorola
+Europe,Product C,578.09,Smart Phone,Apple
+North America,Product B,1098.27,Smart Phone,Samsung
+Europe,Product A,676.84,Feature Phone,Nokia
+Australia,Product C,966.36,Smart Phone,Micromax
+Asia,Product C,814.52,Smart Phone,Apple
+Asia,Product C,1038.93,Feature Phone,Nokia
+Australia,Product B,797.81,Smart Phone,Micromax
+North America,Product A,934.88,Smart Phone,Apple
+North America,Product A,603.65,Feature Phone,Sony
+Europe,Product A,613.51,Feature Phone,Nokia
+Africa,Product A,384.57,Feature Phone,Sony
+Africa,Product A,564.28,Smart Phone,Micromax
+Europe,Product C,678.87,Feature Phone,Motorola
+Asia,Product C,959.24,Feature Phone,Nokia
+Europe,Product A,433.51,Smart Phone,Micromax
+South America,Product A,587.64,Smart Phone,Nokia
+Europe,Product B,796.67,Smart Phone,Micromax
+Africa,Product A,454.53,Smart Phone,Nokia
+Europe,Product A,779.13,Smart Phone,Nokia
+Australia,Product A,1004.33,Smart Phone,Nokia
+North America,Product A,1103,Smart Phone,Nokia
+Africa,Product B,549.91,Smart Phone,Micromax
+South America,Product A,509.8,Smart Phone,Nokia
+Europe,Product B,686.14,Smart Phone,Nokia
+Asia,Product B,858.54,Smart Phone,Micromax
+North America,Product A,675.82,Smart Phone,Nokia
+Africa,Product A,438.76,Feature Phone,Nokia
+North America,Product B,1129.25,Feature Phone,Motorola
+Asia,Product B,782.01,Feature Phone,Nokia
+Europe,Product B,466.88,Smart Phone,Micromax
+Asia,Product C,854.04,Smart Phone,Apple
+Australia,Product A,904.6,Smart Phone,Micromax
+Africa,Product A,607.14,Smart Phone,Apple
+Europe,Product A,847.95,Feature Phone,Sony
+Europe,Product B,534.23,Smart Phone,Samsung
+Australia,Product B,1070.58,Smart Phone,Micromax
+Africa,Product A,468.23,Smart Phone,Micromax
+Australia,Product A,983.35,Smart Phone,Micromax
+Africa,Product A,424.35,Smart Phone,Micromax
+Europe,Product A,767.99,Smart Phone,Apple
+Asia,Product C,743.52,Smart Phone,Micromax
+Europe,Product A,700.34,Feature Phone,Motorola
+Australia,Product A,917.37,Feature Phone,Motorola
+North America,Product A,1148.36,Smart Phone,Apple
+Europe,Product B,761.93,Smart Phone,Nokia
+Australia,Product C,1216.43,Feature Phone,Nokia
+South America,Product B,512.31,Smart Phone,Micromax
+North America,Product A,953.95,Smart Phone,Samsung
+Africa,Product A,468.79,Smart Phone,Samsung
+North America,Product A,1292.82,Smart Phone,Samsung
+Australia,Product A,756.83,Feature Phone,Nokia
+Asia,Product B,738.51,Feature Phone,Nokia
+Europe,Product B,662.94,Smart Phone,Micromax
+Australia,Product B,934.02,Smart Phone,Samsung
+Australia,Product B,891.96,Smart Phone,Nokia
+Asia,Product C,584.17,Smart Phone,Samsung
+Asia,Product C,848.65,Smart Phone,Nokia
+Asia,Product C,1044.4,Smart Phone,Micromax
+North America,Product B,1075.43,Smart Phone,Apple
+Africa,Product B,413.09,Feature Phone,Nokia
+Africa,Product C,441.07,Smart Phone,Micromax
+Australia,Product B,851.78,Smart Phone,Nokia
+North America,Product B,787.45,Feature Phone,Nokia
+Asia,Product C,848.65,Smart Phone,Nokia
+Australia,Product B,1161.81,Feature Phone,Motorola
+Europe,Product A,521.91,Smart Phone,Micromax
+Asia,Product B,800.63,Smart Phone,Samsung
+Europe,Product C,692.4,Feature Phone,Motorola
+Asia,Product C,822.35,Smart Phone,Nokia
+Australia,Product C,736.21,Feature Phone,Nokia
+North America,Product B,1045.73,Feature Phone,Sony
+Australia,Product B,1195.69,Smart Phone,Micromax
+North America,Product A,1185.56,Feature Phone,Sony
+Europe,Product B,809.98,Feature Phone,Nokia
+North America,Product B,1231.16,Feature Phone,Motorola
+Europe,Product B,573.84,Feature Phone,Sony
+Asia,Product C,1198.72,Feature Phone,Motorola
+Europe,Product A,787.2,Smart Phone,Micromax
+Asia,Product B,412.58,Feature Phone,Sony
+Asia,Product C,640.27,Smart Phone,Samsung
+South America,Product B,319.41,Feature Phone,Motorola
+Europe,Product A,859.25,Smart Phone,Micromax
+North America,Product A,1010.94,Feature Phone,Nokia
+Europe,Product B,551.45,Feature Phone,Motorola
+Europe,Product C,685.8,Smart Phone,Nokia
+South America,Product B,474.63,Feature Phone,Nokia
+Africa,Product B,483.19,Smart Phone,Samsung
+Europe,Product A,477.79,Feature Phone,Motorola
+Europe,Product C,1159.65,Smart Phone,Micromax
+Europe,Product C,619.83,Feature Phone,Motorola
+Australia,Product A,1076.07,Smart Phone,Micromax
+Europe,Product C,811.78,Smart Phone,Apple
+Africa,Product A,418.92,Smart Phone,Nokia
+Europe,Product A,584.36,Smart Phone,Nokia
+North America,Product A,1146.97,Smart Phone,Apple
+Europe,Product B,585.07,Feature Phone,Nokia
+South America,Product A,591.87,Smart Phone,Micromax
+Asia,Product B,744.38,Smart Phone,Samsung
+South America,Product A,442.43,Smart Phone,Nokia
+Asia,Product C,638.87,Feature Phone,Motorola
+Europe,Product C,544.68,Smart Phone,Apple
+Europe,Product B,593.2,Smart Phone,Micromax
+North America,Product B,892.22,Smart Phone,Micromax
+Africa,Product A,653.69,Smart Phone,Samsung
+North America,Product C,853.17,Smart Phone,Samsung
+Asia,Product B,872.34,Smart Phone,Nokia
+South America,Product C,464.96,Smart Phone,Samsung
+South America,Product A,505.2,Smart Phone,Samsung
+South America,Product A,485.22,Smart Phone,Micromax
+Australia,Product A,863.15,Smart Phone,Apple
+Australia,Product A,905.26,Smart Phone,Micromax
+Europe,Product B,474.35,Smart Phone,Micromax
+Asia,Product B,1150.85,Feature Phone,Motorola
+Africa,Product B,471.97,Feature Phone,Sony
+South America,Product B,598.45,Feature Phone,Sony
+Africa,Product A,444.03,Feature Phone,Sony
+South America,Product B,630.61,Smart Phone,Apple
+South America,Product C,391,Smart Phone,Samsung
+Asia,Product B,954.51,Feature Phone,Sony
+North America,Product B,761.45,Feature Phone,Nokia
+North America,Product B,1160.31,Smart Phone,Nokia
+North America,Product A,1086.33,Smart Phone,Nokia
+South America,Product A,412.58,Feature Phone,Motorola
+Europe,Product A,740.61,Smart Phone,Samsung
+Europe,Product C,742.57,Smart Phone,Samsung
+North America,Product A,1009.65,Smart Phone,Nokia
+North America,Product A,1101.43,Smart Phone,Apple
+North America,Product B,974.81,Smart Phone,Nokia
+North America,Product A,1243.79,Smart Phone,Apple
+South America,Product B,360.72,Smart Phone,Samsung
+Asia,Product C,971.68,Smart Phone,Samsung
+North America,Product A,1233.06,Smart Phone,Apple
+Asia,Product B,745.66,Smart Phone,Nokia
+North America,Product B,889.63,Smart Phone,Nokia
+South America,Product A,722.28,Feature Phone,Motorola
+Africa,Product A,153.62,Smart Phone,Micromax
+South America,Product B,436.52,Smart Phone,Apple
+Africa,Product A,768.13,Smart Phone,Micromax
+South America,Product A,418.37,Smart Phone,Micromax
+Europe,Product B,670.49,Smart Phone,Micromax
+Asia,Product C,590.49,Feature Phone,Motorola
+Asia,Product C,906.74,Smart Phone,Micromax
+Europe,Product C,517.18,Feature Phone,Nokia
+North America,Product A,1422.9,Smart Phone,Nokia
+Asia,Product C,775.87,Feature Phone,Motorola
+Europe,Product B,1008,Smart Phone,Samsung
+Africa,Product B,485.79,Feature Phone,Sony
+Africa,Product A,530.03,Smart Phone,Nokia
+Africa,Product B,568.3,Smart Phone,Micromax
+Asia,Product B,838.22,Smart Phone,Micromax
+North America,Product B,1109.52,Smart Phone,Micromax
+Africa,Product A,413.6,Smart Phone,Micromax
+North America,Product B,823.99,Smart Phone,Micromax
+Asia,Product C,517.89,Smart Phone,Micromax
+Europe,Product B,986.43,Smart Phone,Micromax
+Africa,Product A,556.99,Smart Phone,Apple
+Australia,Product B,738.01,Smart Phone,Samsung
+Europe,Product C,611.47,Smart Phone,Micromax
+Asia,Product C,1122.41,Smart Phone,Nokia
+Asia,Product B,855.62,Smart Phone,Nokia
+Africa,Product A,624.1,Smart Phone,Micromax
+Asia,Product C,875.28,Feature Phone,Sony
+South America,Product B,550.25,Smart Phone,Micromax
+Europe,Product A,296.43,Smart Phone,Nokia
+Europe,Product C,702.36,Smart Phone,Samsung
+Africa,Product A,472.6,Smart Phone,Micromax
+South America,Product A,375.94,Feature Phone,Motorola
+Europe,Product B,816.3,Feature Phone,Nokia
+Africa,Product B,716.67,Smart Phone,Micromax
+Europe,Product B,713.92,Smart Phone,Micromax
+Africa,Product A,619.2,Feature Phone,Sony
+North America,Product B,989.06,Feature Phone,Motorola
+Europe,Product B,852.02,Smart Phone,Micromax
+Africa,Product A,406.81,Smart Phone,Micromax
+Australia,Product A,1081.39,Smart Phone,Micromax
+North America,Product B,1154.49,Smart Phone,Samsung
+Africa,Product A,353.7,Smart Phone,Apple
+Asia,Product B,723.52,Smart Phone,Apple
+Asia,Product C,971.62,Smart Phone,Nokia
+Europe,Product A,708.39,Feature Phone,Sony
+Australia,Product B,1260.31,Feature Phone,Nokia
+Australia,Product C,1053.65,Feature Phone,Nokia
+Europe,Product B,952.34,Feature Phone,Motorola
+Asia,Product C,882.16,Smart Phone,Micromax
+North America,Product B,1139.07,Smart Phone,Micromax
+Africa,Product A,427.27,Smart Phone,Nokia
+North America,Product A,894.14,Feature Phone,Sony
+North America,Product B,931.42,Smart Phone,Apple
+Europe,Product B,218.59,Smart Phone,Micromax
+Asia,Product B,661.29,Smart Phone,Nokia
+Asia,Product B,871.27,Feature Phone,Motorola
+Europe,Product B,497.94,Feature Phone,Nokia
+North America,Product B,1191.24,Feature Phone,Nokia
+Australia,Product B,1106.4,Smart Phone,Micromax
+South America,Product A,378.98,Smart Phone,Nokia
+Asia,Product B,1048.58,Feature Phone,Motorola
+Europe,Product A,892.49,Smart Phone,Samsung
+Australia,Product B,837.26,Feature Phone,Nokia
+Australia,Product A,1127.69,Smart Phone,Nokia
+North America,Product B,753.92,Feature Phone,Motorola
+South America,Product A,551.83,Feature Phone,Motorola
+Australia,Product B,1163.49,Smart Phone,Samsung
+Africa,Product A,596.81,Smart Phone,Micromax
+Europe,Product A,674.35,Smart Phone,Apple
+Asia,Product B,896.4,Smart Phone,Apple
+South America,Product A,462.69,Smart Phone,Nokia
+Asia,Product C,591.5,Smart Phone,Samsung
+South America,Product A,499.41,Feature Phone,Nokia
+North America,Product B,1087.25,Smart Phone,Micromax
+Africa,Product B,591.75,Smart Phone,Apple
+Asia,Product C,901.75,Smart Phone,Apple
+Asia,Product C,615.66,Smart Phone,Samsung
+Australia,Product B,869.28,Feature Phone,Sony
+Asia,Product C,717.31,Feature Phone,Nokia
+Asia,Product B,862.85,Smart Phone,Nokia
+Australia,Product B,971.22,Smart Phone,Nokia
+Asia,Product C,644.32,Smart Phone,Nokia
+North America,Product B,895.7,Feature Phone,Nokia
+Asia,Product B,241.85,Smart Phone,Apple
+Asia,Product C,1176.41,Smart Phone,Apple
+Australia,Product A,1044.54,Feature Phone,Motorola
+South America,Product C,478.42,Smart Phone,Nokia
+Europe,Product A,830.81,Smart Phone,Micromax
+Europe,Product C,732.77,Smart Phone,Micromax
+Australia,Product C,838.82,Smart Phone,Micromax
+Africa,Product A,714.62,Smart Phone,Samsung
+North America,Product B,797.29,Smart Phone,Micromax
+Asia,Product C,1206.28,Smart Phone,Micromax
+Africa,Product B,538.17,Feature Phone,Motorola
+North America,Product B,1160.7,Smart Phone,Micromax
+North America,Product B,1104.63,Feature Phone,Nokia
+Asia,Product C,714.89,Smart Phone,Micromax
+Australia,Product B,1123.66,Smart Phone,Micromax
+South America,Product A,406.58,Smart Phone,Samsung
+Asia,Product C,824.33,Smart Phone,Micromax
+South America,Product B,398.45,Smart Phone,Micromax
+Asia,Product C,734.67,Feature Phone,Motorola
+South America,Product B,619.58,Smart Phone,Micromax
+Australia,Product A,946.79,Smart Phone,Samsung
+Europe,Product B,508.97,Smart Phone,Micromax
+South America,Product B,383.81,Smart Phone,Nokia
+North America,Product B,936.34,Smart Phone,Micromax
+North America,Product B,1047.23,Smart Phone,Nokia
+Europe,Product A,542.14,Feature Phone,Nokia
+Asia,Product C,617.56,Feature Phone,Nokia
+North America,Product A,1203.56,Smart Phone,Apple
+Europe,Product B,541.85,Smart Phone,Micromax
+North America,Product B,912.81,Smart Phone,Nokia
+Australia,Product B,966.68,Smart Phone,Micromax
+Europe,Product A,639.77,Smart Phone,Nokia
+Asia,Product B,1133.4,Smart Phone,Apple
+South America,Product A,474.47,Smart Phone,Apple
+South America,Product A,499.12,Smart Phone,Samsung
+Europe,Product C,711.68,Smart Phone,Apple
+North America,Product B,1254.85,Smart Phone,Micromax
+Africa,Product C,559.81,Feature Phone,Nokia
+Australia,Product B,802.19,Feature Phone,Motorola
+Africa,Product A,540.84,Feature Phone,Motorola
+Australia,Product B,1183.39,Smart Phone,Nokia
+Australia,Product A,1096.44,Smart Phone,Micromax
+Europe,Product A,486.94,Smart Phone,Micromax
+South America,Product A,433.3,Smart Phone,Nokia
+North America,Product B,1068.06,Smart Phone,Micromax
+Africa,Product B,407.57,Smart Phone,Micromax
+Asia,Product C,992.76,Smart Phone,Apple
+South America,Product B,523.75,Smart Phone,Nokia
+Africa,Product A,392.41,Feature Phone,Nokia
+North America,Product A,1061.93,Smart Phone,Nokia
+Europe,Product C,445.62,Smart Phone,Samsung
+Africa,Product B,489.17,Smart Phone,Micromax
+South America,Product B,575.87,Smart Phone,Nokia
+North America,Product A,881.81,Smart Phone,Micromax
+Australia,Product A,1091.29,Feature Phone,Sony
+Australia,Product B,1080.62,Feature Phone,Motorola
+Australia,Product B,658.63,Feature Phone,Sony
+Africa,Product A,477.31,Feature Phone,Nokia
+Africa,Product A,495.73,Feature Phone,Sony
+South America,Product B,448.7,Smart Phone,Micromax
+South America,Product A,362.02,Smart Phone,Micromax
+South America,Product A,558.8,Feature Phone,Nokia
+Asia,Product B,553.59,Smart Phone,Samsung
+Australia,Product B,1234.31,Feature Phone,Motorola
+Europe,Product A,535.28,Smart Phone,Micromax
+Europe,Product A,224.32,Smart Phone,Micromax
+Asia,Product C,782.56,Feature Phone,Motorola
+Africa,Product A,638.84,Smart Phone,Nokia
+South America,Product A,558.08,Feature Phone,Motorola
+Africa,Product A,719.66,Feature Phone,Nokia
+South America,Product B,384.5,Feature Phone,Motorola
+Europe,Product B,689.64,Smart Phone,Apple
+North America,Product A,1099.56,Smart Phone,Nokia
+Asia,Product C,870.61,Smart Phone,Apple
+Australia,Product B,937.86,Smart Phone,Samsung
+Africa,Product B,559.28,Smart Phone,Micromax
+Australia,Product B,550.7,Feature Phone,Nokia
+Asia,Product B,480.83,Smart Phone,Samsung
+Europe,Product B,549.29,Smart Phone,Samsung
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

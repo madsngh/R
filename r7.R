@@ -1,0 +1,126 @@
+# AirPassengers: Monthly airline passenger numbers from 1949-1960
+# JohnsonJohnson: Quarterly earnings per Johnson & Johnson share
+# nhtemp Average: yearly temperatures in New Haven, 
+# Connecticut, from 1912-1971
+# Nile: Flow of the river Nile
+
+
+sales <- c(18, 33, 41, 7, 34, 35, 24, 25, 24, 21, 25, 20,
+           22, 31, 40, 29, 25, 21, 22, 54, 31, 25, 26, 35)
+
+tsales <- ts(sales, start=c(2003, 1), frequency=12)
+#if 12 then every month
+#if 6 half yearly
+#if 3 quterly
+#if 1 then yearly
+class(tsales)
+
+plot(tsales)
+
+start(tsales)
+end(tsales)
+frequency(tsales)
+
+tsales.subset<-window(tsales,start=c(2003,5),end=c(2004,6))
+tsales.subset
+library(forecast)
+Nile
+View(Nile)
+
+par(mfrow=c(2,2))
+
+par(mar = rep(2, 4))
+par(mfrow=c(2,2))
+
+ylim <- c(min(Nile), max(Nile))
+plot(Nile, main="Raw time series")
+plot(ma(Nile, 3), main="Simple Moving Averages (k=3)", 
+     ylim=ylim)
+plot(ma(Nile, 7), main="Simple Moving Averages (k=7)",
+     ylim=ylim)
+plot(ma(Nile, 15), main="Simple Moving Averages (k=15)", 
+     ylim=ylim)
+dev.off()
+fit<-forecast(ma(Nile,3))
+accuracy(fit)
+
+fit1<-forecast(ma(Nile,7))
+accuracy(fit1)
+
+fit2<-forecast(ma(Nile,15))
+accuracy(fit2)
+
+fit3<-forecast(ma(Nile,18))
+accuracy(fit3)
+
+
+plot(AirPassengers)
+lAirPassengers <- log(AirPassengers)
+plot(lAirPassengers, ylab="log(AirPassengers)")
+
+# s.window controls how fast the seasonal effects can change 
+# over time, and t.window controls how fast the trend can 
+# change over time.
+# s.window="periodic" forces seasonal effects to be identical across years.
+fit <- stl(lAirPassengers, s.window="period")
+plot(fit)
+
+fit$time.series
+fit1 <- exp(fit$time.series)
+seasadj(fit1)
+
+library(forecast)
+fit<-ets(nhtemp,model="ANN")
+#A holts single exponensial
+#AAA triple exponencial seasonal irregularity trend
+#AA double exponential
+ma<-6
+forecast(fit,ma)
+plot(forecast(fit, 1), xlab="Year",
+     ylab=expression(paste("Temperature (", degree*F,")",)),
+     main="New Haven Annual Mean Temperature")
+accuracy(fit)
+
+library(forecast)
+fit <- ets(log(AirPassengers), model="AAA")
+fit
+
+accuracy(fit)
+
+pred <- forecast(fit, 10)
+pred
+
+plot(pred, main="Forecast for Air Travel",
+     ylab="Log(AirPassengers)", xlab="Time")
+
+pred$mean <- exp(pred$mean)
+pred$lower <- exp(pred$lower)
+pred$upper <- exp(pred$upper)
+p <- cbind(pred$mean, pred$lower, pred$upper)
+dimnames(p)[[2]] <- c("mean", "Lo 80", "Lo 95", "Hi 80", "Hi 95")
+p
+plot(p, main="Forecast for Air Travel",
+     ylab="Log(AirPassengers)", xlab="Time")
+plot(p)
+dev.off()
+
+# multiplicative
+# The trend remains additive, but the seasonal and irregular 
+# components are assumed to be multiplicative.
+fit1 <- ets(AirPassengers, model="MAM") # or 
+fit <- hw(AirPassengers, seasonal="multiplicative")
+forecast(fit1, 2)
+accuracy(fit)
+
+library(forecast)
+#Automatic exponential forecasting 
+fit <- ets(JohnsonJohnson)
+fit
+
+par(mar = rep(2, 4))
+par(mfrow=c(2,2))
+
+
+p<-forecast(fit,5)
+p
+plot(p)
